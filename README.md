@@ -1,4 +1,4 @@
-# colored-cmw-logs
+# colored-proc-logs
 
 This repo contains a lightweight bash script to colorize process logs. It runs without any noticeable overhead and is used by simply calling the script before any regular command you'd normally use.
 
